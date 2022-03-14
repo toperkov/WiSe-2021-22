@@ -39,11 +39,8 @@ DHT dht(DHTPIN, DHTTYPE);
 
 BH1750 lightMeter(0x23);
 
-float hif;
-float hic;
 float h;
 float t;
-float f;
 
 uint32_t lux;
 
@@ -73,7 +70,7 @@ void loop() {
   t = dht.readTemperature();
 
   // Check if any reads failed and exit early (to try again).
-  if (isnan(h) || isnan(t) || isnan(f)) {
+  if (isnan(h) || isnan(t)) {
     Serial.println("Failed to read from DHT sensor!");
     return;
   }
