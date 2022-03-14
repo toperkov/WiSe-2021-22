@@ -3,7 +3,7 @@
 
 # Bežične senzorske mreže - Lab 1
 
-### FESB, smjer 110/111/112/114/120, akademska godina 2018/2019
+### FESB, smjer 110/111/112/114/120, akademska godina 2021/2022
 
 Cilj ove vježbe je upoznavanje studenta sa PlatformIO IDE programskim okruženjem, kao i Arduino mikrokontroler platformom. Student će u sklopu današnje vježbe realizirati nekoliko osnovnih primjera te ih testirati na Arduino platformi. Od hardvera će nam biti potrebni:
 - [Arduino Uno](https://www.adafruit.com/products/50)
