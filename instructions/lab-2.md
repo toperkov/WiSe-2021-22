@@ -176,8 +176,6 @@ void incVar() {
 };
 ```
 
-Ovu vježbu možete testirati preko servisa [tinkercad](www.tinkercad.com) u kojem možete razvijati i simulirati različite Arduino aplikacije.
-
 ### Zadatak 1
 
 *Zatražite od profesora link na tinkercad simulaciju koji upotrebljava navedenu skriptu te komentirajte što se dogodilo.*
@@ -228,7 +226,7 @@ void loop() {
 
 ## Zadatak
 
-1) Pitajte profesora za [tinkercad](www.tinkercad.com) simulaciju. *Vaš zadatak je razumijeti rad EEPROM-a testiranjem navedenog koda. Što mislite će se dogoditi sa varijablom ``counter`` ako resetiramo Arduino?*
+1) *Vaš zadatak je razumijeti rad EEPROM-a testiranjem navedenog koda. Što mislite će se dogoditi sa varijablom ``counter`` ako resetiramo Arduino?*
 
 2) *Nodogradite postojeći kod na način da omogućite promjenu stanja LED-ice pritiskom na tipku.*
 
