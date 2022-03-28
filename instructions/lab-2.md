@@ -179,7 +179,7 @@ void incVar() {
 
 ### Zadatak 1
 
-*Zatražite od profesora link na tinkercad simulaciju koji upotrebljava navedenu skriptu te komentirajte što se dogodilo.*
+*Testirajte navedenu skriptu te komentirajte što se dogodilo.*
 
 ## Korištenje EEPROM-a
 
