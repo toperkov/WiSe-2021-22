@@ -59,7 +59,7 @@ U sklopu današnje vježbe student će ralizirati nRF24L01+ primopredajnik. Pri 
 
 <img src="https://cloud.githubusercontent.com/assets/8695815/24586396/2791afe2-17a0-11e7-9d71-6c84ff14d9a4.png" width="400px" />
 
-U direktoriju [``labs/lab-6``](labs/lab-6) se nalazi kod za transmiter (``SimpleTx.cpp``) i receiver (``SimpleRx.cpp``) pa ga testirajte.  
+U direktoriju [``labs/lab6``](labs/lab6) se nalazi kod za transmiter (``SimpleTx.cpp``) i receiver (``SimpleRx.cpp``) pa ga testirajte.  
 **NAPOMENA:** za realizaciju današnje vježbe koristit će se ``RF24`` verziju RF24 biblioteke pa ju je potrebno prethodno instalirati.
 
 ## Povećanje dometa
