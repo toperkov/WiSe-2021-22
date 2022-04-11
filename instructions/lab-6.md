@@ -1,6 +1,6 @@
 # Bežične senzorske mreže - Lab 6
 
-### FESB, smjer 110/111/112/114/120, akademska godina 2020/2021
+### FESB, smjer 110/111/112/114/120, akademska godina 2021/2022
 
 ## Nordic nRF24L01+
 
