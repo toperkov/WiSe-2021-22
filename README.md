@@ -20,3 +20,7 @@ Laboratorijske vježbe su praktičnog tipa (hands-on). Student će realizirati s
 - [Lab 7](instructions/lab-7.md)
 - Lab 8
 - Lab 9
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l26dy439w44e7oywr6l2" alt="trackgit-views" />
+</a>
